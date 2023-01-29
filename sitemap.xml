@@ -14,6 +14,58 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://w33oqe.github.io/test_web/publication-type/1/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/tag/3d-reconstruction/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/tag/lidar-slam/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/tag/lider-inertial-visual/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/tag/multi-sensor-fusion/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/project/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/publication_types/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/publication/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/tag/r3live/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/project/proj_r3live/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/publication/icra_r3live/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/publication/preprint_r3live_pp/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://w33oqe.github.io/test_web/tags/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://w33oqe.github.io/test_web/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -27,10 +79,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://w33oqe.github.io/test_web/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://w33oqe.github.io/test_web/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -48,26 +96,6 @@
   </url><url>
     <loc>https://w33oqe.github.io/test_web/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://w33oqe.github.io/test_web/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://w33oqe.github.io/test_web/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://w33oqe.github.io/test_web/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://w33oqe.github.io/test_web/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://w33oqe.github.io/test_web/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://w33oqe.github.io/test_web/post/jupyter/</loc>
@@ -90,15 +118,15 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://w33oqe.github.io/test_web/project/example/</loc>
+    <loc>https://w33oqe.github.io/test_web/old_example/old_proj_example/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://w33oqe.github.io/test_web/project/external-project/</loc>
+    <loc>https://w33oqe.github.io/test_web/old_example/old_proj_example/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://w33oqe.github.io/test_web/project/</loc>
+    <loc>https://w33oqe.github.io/test_web/old_example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -106,15 +134,15 @@
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://w33oqe.github.io/test_web/publication/journal-article/</loc>
+    <loc>https://w33oqe.github.io/test_web/old_example/old_pub_example/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://w33oqe.github.io/test_web/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://w33oqe.github.io/test_web/tag/source-themes/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://w33oqe.github.io/test_web/publication/conference-paper/</loc>
+    <loc>https://w33oqe.github.io/test_web/old_example/old_pub_example/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
